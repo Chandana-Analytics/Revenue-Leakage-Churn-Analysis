@@ -17,8 +17,8 @@
 * Superstore sales dataset: 9,994 sales records, January 2014 to December 2017, US customers.
 * 793 unique customers.
 * Money values are assumed to be in USD ($), as the data is from the US.
-* File in this repo: Super_store_sales_data.xlsx
-* Workbook in this repo: Revenue_Leakage_Churn_Analysis.xlsx
+* File in this repo: 01_Data/Super_store_sales_data.xlsx
+* Workbook in this repo: 02_Excel/Revenue_Leakage_Churn_Analysis.xlsx
 * Requires Excel 365 or Excel 2021 (uses UNIQUE and FILTER). Older versions show #NAME? after recalculating.
 
 
